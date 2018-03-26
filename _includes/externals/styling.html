@@ -1,0 +1,10 @@
+<link rel="icon" type="image/jpeg" href="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}"/>
+<link rel="stylesheet" href="{{ "/assets/vendor/normalize-css/normalize.css" | prepend: site.baseurl }}">
+<link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}">
+{% if site.styles contains site.highlightstyle %}
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/vendor/highlight/styles/{{ site.highlightstyle }}.css">
+{% else %}
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/vendor/highlight/styles/agate.css">
+{% endif %}
+<link rel="stylesheet" href="{{ "/assets/vendor/font-awesome/css/font-awesome.css" | prepend: site.baseurl }}">
+<link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
