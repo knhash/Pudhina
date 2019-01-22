@@ -15,25 +15,23 @@ subtitle: An awesome person
 Building a deep learning model to detect malicious cyber activity based on data collected from honeypots on the UVa network (Funded by DARPA). The goal of the project is to build anomaly-based intrusion detection system detect malicious cyber activity
 
 
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+**Title** - Hotel Recommendation System - Booking.com - Place <span style="float: right; ">Time span</span>  
+Built a recommendation engine in Python using k-means clustering algorithm on data scraped from booking.com. The recommendation engine was powered with user satisfaction scores from sentiment analysis performed on user reviews.
 
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+
+**Title** - Flight Delay Prediction - FAA Data - Place <span style="float: right; ">Time span</span>  
+Built a machine learning model that was able to predict flight delay on FAA flight logs for the year of 2015. The model's area under curve in the ROC curve was 0.65.
+
 
 ### EDUCATION
 
-Institute <span style="float: right; ">Duration</span>  
+University of Virginia, Charlottesville <span style="float: right; ">2018 - Present</span>  
 **Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
+Master of Science in Data Science
  
-Institute <span style="float: right; ">Duration</span>  
+SRM University,Chennai, India <span style="float: right; ">2010 - 2014</span>  
 **Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
-
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit. 
+Bachelor of Technology in Mechanical Engineering
 
 ### EXPERIENCE
 
