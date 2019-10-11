@@ -1,5 +1,5 @@
 # Pudhina
-A simple, minimal [Jekyll](jekyllrb.com) theme for a personal web page and blog, focusing on white space and readability
+A simple, minimal [Jekyll](https://jekyllrb.com/) theme for a personal web page and blog, focusing on white space and readability
 
 [Click here](https://knhash.github.io/Pudhina/) to see the theme in action. Note that the download PDF button redirects to 404 due to lack of the file. This is by design, to demonstrate the Glitch effect therein.
 
