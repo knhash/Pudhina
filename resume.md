@@ -1,8 +1,8 @@
 ---
-layout: page
 title: Résumé
 subtitle: An awesome person
 ---
+layout: page
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
