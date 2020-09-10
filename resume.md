@@ -1,6 +1,6 @@
 ---
-title: Résumé
-subtitle: An awesome person
+title:  Jest me
+subtitle:  一个不错的boy
 ---
 layout: page
 
