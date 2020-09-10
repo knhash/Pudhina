@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cool
-subtitle: My name is lp
+subtitle: My name is LP
 sitemap:
   priority: 0.9
 ---
