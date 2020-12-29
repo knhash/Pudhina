@@ -1,16 +1,16 @@
 # Site settings
-title: Pudhina
+title: kmon
 description: >
   A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
 
-baseurl: "/Pudhina" # the subpath of your site, e.g. /blog/
-url: "https://knhash.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://kmon3g.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Pudhina
+  fullname: kmon3g
   github: github
   linkedin: linkedin
-  email: example@email.com
+  email: kmon3g@gmail.com
 
 
 # Syntax highlighting
