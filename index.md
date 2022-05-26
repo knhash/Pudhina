@@ -10,4 +10,5 @@ sitemap:
 
 <div id="describe-text">
 	<p>Welcome to my page!</p>
+	It's hard to make my own homepage.
 </div>
