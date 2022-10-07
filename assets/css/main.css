@@ -4,7 +4,7 @@
     font-family: 'Quicksand', sans-serif;  
     font-size: 100%;
     color: #012;
-    background-color: #FFF; }
+    background-color:lavender; }
 
   a {
     color: #57A;
@@ -90,7 +90,7 @@
 
 /* =Titles *//*************************************************************/
   .page-title {
-    margin: 30px auto;
+    margin: 40px auto;
     text-align: center; }
 
   .page-title__text {
@@ -169,10 +169,10 @@
 
 /* =Main Page *//*************************************************************/
   #about-img {
-    border-radius: 13%;
-    max-width: 125px;
+    border-radius: 10%;
+    max-width: 200px;
     margin: auto;
-    margin-bottom: 3%;
+    margin-bottom: 5%;
   }
 
   #describe-text {

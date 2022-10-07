@@ -1,15 +1,8 @@
----
-layout: page
-title: [Youssef Abdelhady]
-subtitle: Introduction
-sitemap:
-  priority: 0.9
----
-
-<img src="{{ '/assets/img/IMG_8228.jpg' | prepend: site.baseurl }}" id="about-img">
+I"B<p><img src="/Pudhina/assets/img/IMG_8228.jpg" id="about-img" /></p>
 
 <div id="describe-text">
 	<p>My name is Youssef Abdelhady. I am a Junior at Marist College. A couple of my hobbies include playing video games, such as Madden and Call of Duty. I also like going to the gym, and also watching TV or movies.</p>
 
 
-</div> 
+</div>
+:ET

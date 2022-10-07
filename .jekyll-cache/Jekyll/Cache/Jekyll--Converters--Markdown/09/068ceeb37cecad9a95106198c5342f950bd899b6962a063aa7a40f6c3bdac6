@@ -1,0 +1,66 @@
+I"'<div>
+
+
+<h4 class="post-teaser__month">
+<strong>
+ 
+- - - - -  general - - - - - 
+
+</strong>
+</h4>
+<ul class="list-posts">
+
+<li class="post-teaser">
+<a href="/Pudhina/general/2016/05/20/welcome-to-jekyll.html">
+<span class="post-teaser__title">Welcome to Pudhina</span>
+<span class="post-teaser__date">20 May 2016</span>
+</a>
+</li>
+
+<li class="post-teaser">
+<a href="/Pudhina/general/2016/05/20/my-example-post.html">
+<span class="post-teaser__title">Sample</span>
+<span class="post-teaser__date">20 May 2016</span>
+</a>
+</li>
+
+</ul>
+
+<h4 class="post-teaser__month">
+<strong>
+ 
+- - - - -  junk - - - - - 
+
+</strong>
+</h4>
+<ul class="list-posts">
+
+<li class="post-teaser">
+<a href="/Pudhina/junk/2016/05/20/this-post-demonstrates-post-content-styles.html">
+<span class="post-teaser__title">This post demonstrates post content styles</span>
+<span class="post-teaser__date">20 May 2016</span>
+</a>
+</li>
+
+</ul>
+
+<h4 class="post-teaser__month">
+<strong>
+ 
+- - - - -  misc - - - - - 
+
+</strong>
+</h4>
+<ul class="list-posts">
+
+<li class="post-teaser">
+<a href="/Pudhina/misc/2016/05/20/super-long-article.html">
+<span class="post-teaser__title">Some articles are just so long they deserve a really long title to see if things will break well</span>
+<span class="post-teaser__date">20 May 2016</span>
+</a>
+</li>
+
+</ul>
+
+</div>
+:ET
