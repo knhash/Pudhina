@@ -1,20 +1,13 @@
----
+I"O<body style="background-color: white;">
+<img src="/Pudhina/assets/img/IMG_8228.jpg" id="about-img" />
+<span style="float: right; "><a href="/Pudhina/assets/resume.pdf"><strong> </strong></a> </span>
 
-layout: page
-title: Youssef's Resume
-subtitle: Computer Science Student
-
----
-
-<img src="{{ '/assets/img/IMG_8228.jpg' | prepend: site.baseurl }}" id="about-img">
-<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong> </strong></a> </span>
-
-<hr>
+<hr />
 
 
 **Introduction Summary** <span style="float: right; "></span>  
 Current Marist College student enrolled in the computer science program. Seeking an internship or research opportunity that will allow me to utilize my problem solving skills and attention to detail to further develop my abilities in the field of computer science.
-<hr>
+<hr />
 
 ### EXPERIENCE
 
@@ -40,10 +33,10 @@ Maintaining and guiding, ensuring success and the wellbeing of the overall drive
 
 ▪ Monitor orders to ensure quick, efficient service in a time limit process. 
 
-<hr>
+<hr />
 ### EDUCATION
 <b> Marist College,
-<B>
+<b>
 <em>Poughkeepsie, NY 
 * Bachelor of Science degree expected May 2024   
 * Major: Computer Science
@@ -52,19 +45,19 @@ Maintaining and guiding, ensuring success and the wellbeing of the overall drive
 
 
 <b> Roy C Ketcham,
-<B>
+<b>
 <em>Wappingers Falls, NY 
 * High School Diploma  
 * Honors
 * GPA: 3.7 / 4.0 
-<hr>
+<hr />
 
 
 ### PROJECTS 
 **Social Media Website**  <span style="float: right; "></span>  
 <i> Developed a Social Media Website that allows users to create an account and post. The website is a fully functional website that furthered my knowledge in web development. This project helped understand the main elements of how most social media websites function. To create this website I used html, css, and client and server side javascript, and a database using postgres. Along with this I learned Source code management through git and github.
 
-<hr>
+<hr />
 
 ### Technical Skills
 **Programming Knowledge** <span style="float: right; "></span>  
@@ -87,6 +80,5 @@ Maintaining and guiding, ensuring success and the wellbeing of the overall drive
 - Communication skills/People Skills
 - Problem-solving abilities.
 - Self-Motivation
-
-
-<body style = "background-color: white;">
+</i></em></b></b></em></b></b></body>
+:ET
