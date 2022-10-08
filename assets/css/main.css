@@ -19,6 +19,7 @@
     display: block;
     max-width: 100%; }
 
+
   blockquote {
     letter-spacing: 3px;
     margin: 0px;
@@ -170,9 +171,10 @@
 /* =Main Page *//*************************************************************/
   #about-img {
     border-radius: 10%;
-    max-width: 200px;
+    height: 200px;
+    width: 200px;
     margin: auto;
-    margin-bottom: 5%;
+    margin-bottom: 0%;
   }
 
   #describe-text {
