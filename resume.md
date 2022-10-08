@@ -39,15 +39,24 @@ Maintaining and guiding, ensuring success and the wellbeing of the overall drive
 
 <hr>
 ### EDUCATION
+<b> Marist College,
+<B>
+<em>Poughkeepsie, NY 
+* Bachelor of Science degree expected May 2024   
+* Major: Computer Science
+* Honors: Dean’s List, Deans’ Circle 
+* GPA: 3.4 / 4.0 
 
-Marist College, Poughkeepsie, NY <span style="float: right; ">Current</span>  
-<em>Marist College, Poughkeepsie, NY 
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
- 
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
+
+<b> Roy C Ketcham,
+<B>
+<em>Wappingers Falls, NY 
+* High School Diploma  
+* Honors
+* GPA: 3.7 / 4.0 
+<hr>
+
+
 
 ### PROJECTS 
 **Title** - gogogagga mommy - Place <span style="float: right; ">Time span</span>  
