@@ -1,5 +1,5 @@
 # Site settings
-title: Pudhina
+title: Home Page 
 description: >
   A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
 
@@ -7,7 +7,7 @@ baseurl: "/Pudhina" # the subpath of your site, e.g. /blog/
 url: "https://knhash.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Pudhina
+  fullname: Home page
   github: github
   linkedin: linkedin
   email: example@email.com

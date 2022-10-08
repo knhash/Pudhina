@@ -88,5 +88,5 @@ Maintaining and guiding, ensuring success and the wellbeing of the overall drive
 - Problem-solving abilities.
 - Self-Motivation
 
-
-<body style = "background-color: white;">
+<body style="background-color:white;">
+</body>

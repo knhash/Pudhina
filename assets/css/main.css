@@ -57,14 +57,14 @@
     float: left; }
 
   .logo {
-    font-size: 100%;
+    font-size: 200%;
     font-weight: 700;
-    color: #16a085;
+    color: #0037ff;
     display: block; }
 
   .menu {
-    color: #828282;
-    font-size: 100%;
+    color: #ffffff;
+    font-size: 150%;
     margin: 0px;
     margin-top: 6px;
     padding: 0px;
