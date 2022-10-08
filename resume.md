@@ -57,29 +57,30 @@ Maintaining and guiding, ensuring success and the wellbeing of the overall drive
 <hr>
 
 
-
 ### PROJECTS 
-**Title** - gogogagga mommy - Place <span style="float: right; ">Time span</span>  
-<i> Plol ea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+**Social Media Website**  <span style="float: right; "></span>  
+<i> Developed a Social Media Website that allows users to create an account and post. The website is a fully functional website that furthered my knowledge in web development. This project helped understand the main elements of how most social media websites function. To create this website I used html, css, and client and server side javascript, and a database using postgres. Along with this I learned Source code management through git and github.
 
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+<hr>
 
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+### Technical Skills
+**Programming Knowledge** <span style="float: right; "></span>  
+▪ Strong in Python, HTML, JavaScript, and CSS, familiar with Java. 
 
+▪ Experience working with Node.js, postgreSQL, MySQL.
 
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit. 
+**Development Practices** <span style="float: right; "></span> 
 
+▪ Source Code Management: Git and Github  
+▪ Relational database design through Entity-Relationship Diagramming. 
+▪ Development with rest API’s 
 
+ 
+### Gengeral Skills
 
-### RECOGNITION & INTERESTS
-
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
+- Team leadership
+- Great at maintaining a clean and safe work environment.
+- Can work under heavy stress environments.
+- Communication skills/People Skills
+- Problem-solving abilities.
+- Self-Motivation
