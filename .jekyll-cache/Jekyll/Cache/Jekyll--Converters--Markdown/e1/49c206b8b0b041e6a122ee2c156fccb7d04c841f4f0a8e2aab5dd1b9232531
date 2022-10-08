@@ -1,0 +1,134 @@
+I"�<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title> Blog — Select ramblings of Youssef  | Youssef</title>
+<meta name="description" content="I am a Junior at Marist College. A couple of my hobbies include playing video games and watching TV or movies. You may be confused by my profile picuture but it’s just a filter ! Listen below are my social medias.
+" />
+
+<link rel="canonical" href="/Youssef//blog.html" />
+<link rel="icon" type="image/jpeg" href="/Youssef//assets/img/pudhina.jpg" />
+<link rel="stylesheet" href="/Youssef//assets/vendor/normalize-css/normalize.css" />
+<link rel="stylesheet" href="/Youssef//assets/css/main.css" />
+
+<link rel="stylesheet" href="/Youssef//assets/vendor/highlight/styles/agate.css" />
+
+<link rel="stylesheet" href="/Youssef//assets/vendor/font-awesome/css/font-awesome.css" />
+<link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet" />
+</head>
+<body>
+<div class="wrapper">
+<header class="header">
+<div class="navigation">
+<a href="/Youssef//" class="logo">Youssef</a>
+<ul class="menu">
+<li class="menu__entry"><a href="/Youssef//resume">Resume</a></li>
+<li class="menu__entry"><a href="/Youssef//blog">Blog</a></li>
+</ul>
+</div>
+<ul class="social-links">
+
+<a href="mailto:youssef.abdelhady1@marist.edu" class="social-links__entry" target="_blank">
+<i class="fa fa-envelope-square"></i>
+</a>
+
+
+<a href="https://github.com/github" class="social-links__entry" target="_blank">
+<i class="fa fa-github"></i>
+</a>
+
+
+<a href="https://in.linkedin.com/in/linkedin" class="social-links__entry" target="_blank">
+<i class="fa fa-linkedin"></i>
+</a>
+
+</ul>
+</header>
+<h1 class="page-title">
+<div class="page-title__text">Blog</div>
+<div class="page-title__subtitle">Lessons 1-3</div>
+</h1>
+
+<div>
+
+
+<h4 class="post-teaser__month">
+<strong>
+ 
+
+</strong>
+</h4>
+<ul class="list-posts">
+
+<li class="post-teaser">
+<a href="/Youssef//general/2016/05/20/welcome-to-jekyll.html">
+<span class="post-teaser__title">Lesson 1</span>
+<span class="post-teaser__date"></span>
+<h4 style="color: black;">In the first lesson of System Design class, there was an emphasis on Git, GitHub, HTML, and CSS. More importanly we learned how they all connect with one another. The main takeway I took from this first lesson, was how git is an important tool for your changes in code, and Github is the website that centralize your Git history. Along with this I learned most of the git commands, and their function. </h4>
+
+</a>
+</li>
+
+<li class="post-teaser">
+<a href="/Youssef//general/2016/05/20/my-example-post.html">
+<span class="post-teaser__title">Lesson 2</span>
+<span class="post-teaser__date"></span>
+<h4 style="color: black;">Lesson 2, was an add on to the first lesson. But with an emphasis on collaboration with others with Git and Github, and how we can utlize it when working with a team or collaboraters(🧑‍🤝‍🧑). There's many approaches to working with others through Git, such as Truck Based Development, Feature Branches, and Git Flow. The main takeaway that confused me was how a group of people can work on code together, and this lesson really solved that question for me. They do it through the "Branch", you can create new branches to work on the code until your ready to merge the final code together. </h4>
+</a>
+</li>
+
+</ul>
+
+<h4 class="post-teaser__month">
+<strong>
+ 
+
+
+</strong>
+</h4>
+<ul class="list-posts">
+
+<li class="post-teaser">
+<a href="/Youssef//junk/2016/05/20/this-post-demonstrates-post-content-styles.html">
+<span class="post-teaser__title">Lesson 3 Frameworks 🖼️🖼️</span>
+<span class="post-teaser__date"></span>
+<h4 style="color: black; "> Lesson 3 was all about Frameworks. Frameworks is essantially prewritten code a user can use to edit and change around, like this project right here. This is a quick way of building out a website. There's a term called batteries(🔋) included which means there can be little room for customizing becuase the prototype takes care of the difficult things for you.   </h4>
+</a>
+</li>
+
+</ul>
+
+<h1 class="post-teaser__month">
+<strong>
+    🔋
+</strong>
+<h1 style="color: black;">[ 🔋🔋🔋🔋🔋🔋🔋🔋🔋🔋🔋🔋🔋🔋🔋🔋🔋🔋🔋🔋🔋🔋 ]</h1>
+<img src="/Pudhina/assets/img/profile_pic.jpg" id="about-img" />
+&lt;/h4&gt;
+<ul class="list-posts">
+
+<li class="post-teaser">
+<a href="/Youssef//misc/2016/05/20/super-long-article.html">
+<span class="post-teaser__title">Some articles are just so long they deserve a really long title to see if things will break well</span>
+<span class="post-teaser__date">20 May 2016</span>
+</a>
+</li>
+
+</ul>
+
+&lt;/div&gt;
+
+
+<div class="about">
+<div class="about__divider">All rights belong to Youssef</div>
+<div class="about__text">
+
+
+</div>
+<script src="/Youssef//assets/vendor/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+&lt;/body&gt;
+&lt;/html&gt;
+
+</div></h1></div></div></body>
+:ET

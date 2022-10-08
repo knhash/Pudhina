@@ -1,9 +1,5 @@
----
-layout: page
-title: Lessons 1-3 
-subtitle: System Design Lessons
----
-<hr>
+I"><hr />
+
 <html>
 <head>
 <div class="row">
@@ -11,13 +7,13 @@ subtitle: System Design Lessons
     <div class="card">
       <h2>Lesson 1</h2>
       <h5></h5>
-      <img src="https://media.giphy.com/media/GG4kiTuPtezNKHBXZZ/giphy.gif" alt="Logo.gif" style="width:400px;height:150px;">
-      <p>In the first lesson of System Design class, there was an emphasis on Git, GitHub, along with HTML, and CSS. More importanly we learned how they all connect with one another. The main takeway I took from this first lesson, was how git is an important tool for your changes in code, and Github is the website that centralize your Git history. Along with this I learned most of the git commands, and their function.</p>
+      <img src="https://media.giphy.com/media/GG4kiTuPtezNKHBXZZ/giphy.gif" alt="Logo.gif" style="width:400px;height:150px;" />
+      <p>In the first lesson of System Design class, there was an emphasis on Git, GitHub, HTML, and CSS. More importanly we learned how they all connect with one another. The main takeway I took from this first lesson, was how git is an important tool for your changes in code, and Github is the website that centralize your Git history. Along with this I learned most of the git commands, and their function.</p>
     </div>
-    <hr>
+    <hr />
     <div class="card">
       <h2>Lesson 2</h2>
-       <img src="https://media.giphy.com/media/jc71WrpPvmgSmbxb5D/giphy.gif" alt="Logo.gif" style="width:400px;height:150px;">
+       <img src="https://media.giphy.com/media/jc71WrpPvmgSmbxb5D/giphy.gif" alt="Logo.gif" style="width:400px;height:150px;" />
       <p>Lesson 2, was an add on to the first lesson. But with an emphasis on collaboration with others with Git and Github, and how we can utlize it when working with a team or collaboraters(🧑‍🤝‍🧑). There's many approaches to working with others through Git, such as Truck Based Development, Feature Branches, and Git Flow. The main takeaway that confused me was how a group of people can work on code together, and this lesson really solved that question for me. They do it through the "Branch", you can create new branches to work on the code until your ready to merge the final code together.</p>
     </div>
   </div>
@@ -29,8 +25,8 @@ subtitle: System Design Lessons
     </div>
     <div class="card">
       <h3>Popular Post</h3>
-      <div class="fakeimg">Image</div><br>
-      <div class="fakeimg">Image</div><br>
+      <div class="fakeimg">Image</div><br />
+      <div class="fakeimg">Image</div><br />
       <div class="fakeimg">Image</div>
     </div>
     <div class="card">
@@ -44,5 +40,7 @@ subtitle: System Design Lessons
   <h2>Footer</h2>
 </div>
 
-</body>
-</html>
+&lt;/body&gt;
+&lt;/html&gt;
+</head></html>
+:ET

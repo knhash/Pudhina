@@ -19,6 +19,7 @@
     display: block;
     max-width: 100%; }
 
+
   blockquote {
     letter-spacing: 3px;
     margin: 0px;
@@ -56,14 +57,14 @@
     float: left; }
 
   .logo {
-    font-size: 300%;
+    font-size: 100%;
     font-weight: 700;
-    color: black#16a085;
+    color: #16a085;
     display: block; }
 
   .menu {
     color: #828282;
-    font-size: 150%;
+    font-size: 100%;
     margin: 0px;
     margin-top: 6px;
     padding: 0px;
